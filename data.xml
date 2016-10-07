@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="ISO-8859-1"?> 
+<All>         
+        <task>
+              <question>What is the capital city of the United States of America?</question>
+              <option>Philadelphia</option>
+              <option>Washington D.C.</option>
+              <option>Las Vegas</option>
+			  <answer>Washington D.C.</answer>
+        </task>         
+        <task>
+              <question>What is the largest city in America?</question>
+              <option>Los Angeles</option>
+              <option>Tokyo</option>
+              <option>New York City</option>
+			  <answer>New York City</answer>
+        </task>         
+        <task>
+              <question>According to the 2000 cencus, what percentage of the population spoke English as their main language?</question>
+              <option>4.3%</option>
+              <option>82.1%</option>
+              <option>94.6%</option>
+			  <answer>82.1%</answer>
+        </task> 
+		<task>
+              <question>Which three oceans border the United States?</question>
+              <option>The Pacific, the Atlantic, and the Artctic</option>
+              <option>The Pacific, the Atlantic, and the Indian</option>
+              <option>The Pacific, the Indian, and the Southern</option>
+			  <answer>The Pacific, the Atlantic, and the Artctic</answer>
+        </task>
+		<task>
+              <question>What is the capital city of Colorado?</question>
+              <option>Phoenix</option>
+              <option>Boston</option>
+              <option>Denver</option>
+			  <answer>Denver</answer>
+        </task>          
+</All>
